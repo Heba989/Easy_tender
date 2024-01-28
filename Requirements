@@ -1,0 +1,4 @@
+pymssql
+python-dotenv
+requests
+Flask
